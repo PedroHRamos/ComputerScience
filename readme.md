@@ -12,7 +12,7 @@ What is this repository?
 ---------------
 
 This is a repository to pactice what I'm learning in "Problemas Clássicos De Ciência Da Computação Com Python" - David Kopec.
-The source code of the book is in this repository: `https://github.com/davecom/classiccomputerscienceProblemsInPython`
+The source code of the book is in this repository: `https://github.com/davecom/ClassicComputerScienceProblemsInPython`
 
 Got a question?
 ---------------
